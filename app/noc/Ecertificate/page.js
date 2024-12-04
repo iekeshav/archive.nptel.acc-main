@@ -5,7 +5,7 @@ import Link from "next/link"
 const Ecertificate = () => {
 
   const handleClick = () => {
-    window.open('/NOC24HS29S1257800643.pdf', '_blank');
+    window.open('/NPTEL24MG35S957800581.pdf', '_blank');
   };
 
     return(
